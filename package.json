@@ -1,0 +1,16 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "youtube backend practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "backend"
+  ],
+  "author": "Jatin Yadav",
+  "license": "ISC"
+}
